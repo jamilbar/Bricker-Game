@@ -20,13 +20,12 @@ This project is a classic Brick Ball game implemented in Java. The objective of 
 ## Installation
 1. Ensure you have Java installed on your system.
 2. Download and install the Dano Game Lab package.
-3. Clone or download the game repository from [GitHub](#).
+3. Clone or download the game repository from [GitHub](https://github.com/jamilbar/Bricker-Game).
 
 ## Running the Game
 1. Open your terminal or command prompt.
 2. Navigate to the directory where the game files are located.
-3. Compile the game using the command: `javac BrickGame.java`
-4. Run the game using the command: `java BrickGame`
+3. Run the game using the file : `main/BrickerGameManger.java`
 
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
