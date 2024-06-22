@@ -1,7 +1,7 @@
 # Brick Game
 
 ## Overview
-This project is a classic Brick Ball game implemented in Java. The objective of the game is to hit every possible brick with the ball before you run out of lives. Players control a paddle to bounce the ball and break bricks.
+This project involves implementing the classic Brick Ball game in Java, as part of an exercise for the Object-Oriented Programming (OOP) course. The objective of the game is to hit every possible brick with the ball before you run out of lives. Players control a paddle to bounce the ball and break bricks.
 
 ## Features
 - One player game controlled using the keyboard arrows
